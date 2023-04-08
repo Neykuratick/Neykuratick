@@ -15,7 +15,7 @@ I'm a Python Backend developer
 - Postgres, MongoDB, Redis
 - Docker, Linux, NGINX, Bash
 
-### Less experienced with the following technologies:
+### Less experienced with:
 
 - Go, Java
 - Kubernetes, Kafka, Grafana
