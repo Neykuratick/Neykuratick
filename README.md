@@ -2,10 +2,10 @@
 
 I'm a Python Backend developer
 
-Name: Roman
-Years of experience: 2
-Telegram: [@qiexie](https://t.me/iqiexie)
-Email: neykuratick@yahoo.com
+- Name: `Roman`
+- Years of experience: `2`
+- Telegram: [@qiexie](https://t.me/iqiexie)
+- Email: `neykuratick@yahoo.com`
 
 ### Experienced with the following technologies:
 
