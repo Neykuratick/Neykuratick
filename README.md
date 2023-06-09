@@ -18,7 +18,7 @@ I'm a Python Backend developer
 ### Less experienced with:
 
 - Go, Java
-- Kubernetes, Kafka, Grafana
+- Kubernetes, RabbitMQ, Grafana
 
 ### My work experience in a nutshell:
 
