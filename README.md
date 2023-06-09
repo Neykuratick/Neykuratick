@@ -17,16 +17,17 @@ I'm a Python Backend developer
 
 ### Less experienced with:
 
-- Go, Java
+- Go, Java, FunC
 - Kubernetes, RabbitMQ, Grafana
+- Ton Blockchain
 
 ### My work experience in a nutshell:
 
 - Webscraping
 - Backend API development of various complexety: from simple CRUDs for simple landing pages to a complex accounting system
 - Integration of payment services
-- Technical consulting
-- Deploying web applications and maintaining CI/CD processes
+- Blockchain development (TON)
+- Deploying applications and setting up CI/CD
 
 ### My current projects
 
