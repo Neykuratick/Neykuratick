@@ -29,6 +29,6 @@ I'm a Python Backend developer
 - Blockchain development (TON)
 - Deploying applications and setting up CI/CD
 
-### My current projects
+### My current side projects
 
 I'm currenly working on an [API for a SMTP server](https://github.com/Neykuratick/mail_server) and a [timetable bot](https://github.com/Neykuratick/timetablevkbot) for my university
