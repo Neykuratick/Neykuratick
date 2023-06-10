@@ -24,7 +24,7 @@ I'm a Python Backend developer
 ### My work experience in a nutshell:
 
 - Webscraping
-- Backend API development of various complexety: from simple CRUDs for simple landing pages to a complex accounting system
+- Backend API development of various complexety: from simple CRUDs for simple landing pages to complex accounting systems
 - Integration of payment services
 - Blockchain development (TON)
 - Deploying applications and setting up CI/CD
