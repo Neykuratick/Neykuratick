@@ -9,11 +9,11 @@ I'm a Python Backend developer
 
 ### Experienced with the following technologies:
 
-- Python
+- Python, Bash
 - FastAPI, Tornado, Django
 - Aiogram, BeautifulSoup, Selenium
 - Postgres, MongoDB, Redis
-- Docker, Linux, NGINX, Bash
+- Docker, Linux, NGINX
 
 ### Less experienced with:
 
