@@ -9,7 +9,7 @@ I'm a Python Backend developer
 
 ### Experienced with the following technologies:
 
-- Python, Bash
+- Python, Bash, SQL
 - FastAPI, Tornado, Django
 - Aiogram, BeautifulSoup, Selenium
 - Postgres, MongoDB, Redis
